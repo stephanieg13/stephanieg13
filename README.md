@@ -1,2 +1,2 @@
- I’m interested in analyzing data and coding, I’m currently learning programing such as python and javscript 
+Looking for data analyst positions; experience with data cleaning and visualizations using: Microsoft Excel, Microsoft Power BI, Tableau, SQL, and some python queries
 - 📫 How to reach me: via email @stephanieguadarrama13@gmail.com
